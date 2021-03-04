@@ -1,0 +1,10 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="1a858096-7b61-43ea-a43e-123d501bb05c" name="LDuncAndroid">
+      <server useHttp="false" host="github.com" />
+    </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="CLONE_GIT_USING_SSH" value="true" />
+  </component>
+</application>
