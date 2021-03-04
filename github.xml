@@ -1,7 +1,7 @@
 <application>
   <component name="GithubAccounts">
-    <account id="330c5795-7242-4698-a4a5-b1ab3607e760" name="LDuncAndroid">
-      <server host="github.com" />
+    <account id="1a858096-7b61-43ea-a43e-123d501bb05c" name="LDuncAndroid">
+      <server useHttp="false" host="github.com" />
     </account>
   </component>
   <component name="GithubSettings">
