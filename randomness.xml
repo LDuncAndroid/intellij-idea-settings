@@ -1,0 +1,16 @@
+<application>
+  <component name="ArraySettings">
+    <option name="currentSchemeName" value="Kotlin" />
+    <option name="schemes">
+      <list>
+        <ArrayScheme />
+        <ArrayScheme>
+          <option name="brackets" value="()" />
+          <option name="count" value="50" />
+          <option name="myName" value="Kotlin" />
+          <option name="spaceAfterSeparator" value="false" />
+        </ArrayScheme>
+      </list>
+    </option>
+  </component>
+</application>
